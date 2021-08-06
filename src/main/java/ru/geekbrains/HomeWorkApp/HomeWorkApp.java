@@ -19,6 +19,8 @@ public static void printThreeWords(){
     System.out.println("Banana");
     System.out.println("Apple");
 
+    // ну тут все просто - мучаюсь с GIT
+
 }
 
     public static void checkSumSign(){
